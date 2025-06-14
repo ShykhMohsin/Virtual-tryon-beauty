@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "641680704983",
+    "project_id": "virtual-beauty-tryon-17f90",
+    "storage_bucket": "virtual-beauty-tryon-17f90.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:641680704983:android:f6136da09d64e88046b792",
+        "android_client_info": {
+          "package_name": "com.example.beauty_ar_marketplace"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "641680704983-ea94d2hsbani3tt7hh3po880hajuhd8p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6gnbfONL6LdG7eUqVdK5EGRNdLkQkAuI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "641680704983-ea94d2hsbani3tt7hh3po880hajuhd8p.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "641680704983-2lbc9lp7uoqlfqoagib5u7jggpv889pk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.beautyArMarketplace"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
