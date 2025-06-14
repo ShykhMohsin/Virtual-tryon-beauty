@@ -18,7 +18,7 @@ class _ChatbotScreenState extends State<ChatbotScreen> {
   final ScrollController _scrollController = ScrollController();
 
   // Hardcoded API key (FOR DEVELOPMENT ONLY)
-  static const String _openAIApiKey = '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';
+  static const String _openAIApiKey = 'OPENAI_API';
   static const String _model = 'gpt-3.5-turbo';
 
   @override
